@@ -1,0 +1,19 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "encrypt and decrypt functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subtosharki/encrypt-decrypt.git"
+  },
+  "author": "subtosharki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subtosharki/encrypt-decrypt/issues"
+  },
+  "homepage": "https://github.com/subtosharki/encrypt-decrypt#readme"
+}
